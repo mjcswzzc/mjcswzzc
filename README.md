@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjcswzzc
 - 👀 I’m interested in C++/Python/DirectX
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Transformers(ML)
 - 💞️ I’m looking to collaborate on Deep Learning
 - 📫 How to reach me: ruchujianzc@hotmail.com
 
